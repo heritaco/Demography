@@ -33,7 +33,7 @@ To view the materials in this repository, you will need:
 ## Citation
 To cite this course and its materials, please use the following format:
 ```
-Espino Montelongo, H., Bravo Colín, A. X., & Nuñez Lopez, C. (2025). Demography — UDLAP (Actuarial Sciences). Retrieved from [repository URL]
+Espino Montelongo, H., Bravo Colín, A. X., & Nuñez Lopez, C. (2025). Demography — UDLAP (Actuarial Sciences). Retrieved from https://github.com/heritaco/Demography
 ```
 
 ## Acknowledgments
